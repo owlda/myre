@@ -1,0 +1,2 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\SPWebAppListCopy\SPWebAppListCopy\obj\x86\Release\SPWebAppListCopy.csprojResolveAssemblyReference.cache
+C:\Users\DAAndrienko\Documents\Visual Studio 2010\Projects\SPWebAppListCopy\SPWebAppListCopy\bin\Release\SPWebAppListCopy.exe.config
