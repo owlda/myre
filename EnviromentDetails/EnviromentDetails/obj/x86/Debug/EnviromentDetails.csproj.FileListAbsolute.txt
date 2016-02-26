@@ -1,0 +1,9 @@
+C:\Users\DAAndrienko\AppData\Local\Temporary Projects\EnviromentDetails\bin\Debug\EnviromentDetails.exe
+C:\Users\DAAndrienko\AppData\Local\Temporary Projects\EnviromentDetails\bin\Debug\EnviromentDetails.pdb
+C:\Users\DAAndrienko\AppData\Local\Temporary Projects\EnviromentDetails\obj\x86\Debug\EnviromentDetails.exe
+C:\Users\DAAndrienko\AppData\Local\Temporary Projects\EnviromentDetails\obj\x86\Debug\EnviromentDetails.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\EnviromentDetails\EnviromentDetails\obj\x86\Debug\EnviromentDetails.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\EnviromentDetails\EnviromentDetails\obj\x86\Debug\EnviromentDetails.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\EnviromentDetails\EnviromentDetails\bin\Debug\EnviromentDetails.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\EnviromentDetails\EnviromentDetails\bin\Debug\EnviromentDetails.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\EnviromentDetails\EnviromentDetails\obj\x86\Debug\EnviromentDetails.csprojResolveAssemblyReference.cache
