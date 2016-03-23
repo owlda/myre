@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\InheritanceStudy\InheritanceStudy\bin\Release\InheritanceStudy.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\InheritanceStudy\InheritanceStudy\bin\Release\InheritanceStudy.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\InheritanceStudy\InheritanceStudy\obj\x86\Release\InheritanceStudy.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\InheritanceStudy\InheritanceStudy\obj\x86\Release\InheritanceStudy.pdb
