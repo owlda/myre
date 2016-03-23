@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\PolynomicInterface\PolynomicInterface\bin\Release\PolynomicInterface.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\PolynomicInterface\PolynomicInterface\bin\Release\PolynomicInterface.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\PolynomicInterface\PolynomicInterface\obj\x86\Release\PolynomicInterface.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\PolynomicInterface\PolynomicInterface\obj\x86\Release\PolynomicInterface.pdb
