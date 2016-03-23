@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\Employee\Employee\bin\Release\Employee.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\Employee\Employee\bin\Release\Employee.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\Employee\Employee\obj\x86\Release\Employee.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\Employee\Employee\obj\x86\Release\Employee.pdb
