@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\funwithconstractors\funwithconstractors\bin\Release\funwithconstractors.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\funwithconstractors\funwithconstractors\bin\Release\funwithconstractors.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\funwithconstractors\funwithconstractors\obj\x86\Release\funwithconstractors.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\funwithconstractors\funwithconstractors\obj\x86\Release\funwithconstractors.pdb
