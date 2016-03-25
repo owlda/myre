@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionCustom\ExceptionCustom\bin\Release\ExceptionCustom.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionCustom\ExceptionCustom\bin\Release\ExceptionCustom.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionCustom\ExceptionCustom\obj\x86\Release\ExceptionCustom.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionCustom\ExceptionCustom\obj\x86\Release\ExceptionCustom.pdb
