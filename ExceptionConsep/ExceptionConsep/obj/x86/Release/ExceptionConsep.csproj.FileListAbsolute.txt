@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionConsep\ExceptionConsep\bin\Release\ExceptionConsep.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionConsep\ExceptionConsep\bin\Release\ExceptionConsep.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionConsep\ExceptionConsep\obj\x86\Release\ExceptionConsep.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ExceptionConsep\ExceptionConsep\obj\x86\Release\ExceptionConsep.pdb
