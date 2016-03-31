@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\CustomEnu\CustomEnu\bin\Release\CustomEnu.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\CustomEnu\CustomEnu\bin\Release\CustomEnu.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\CustomEnu\CustomEnu\obj\x86\Release\CustomEnu.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\CustomEnu\CustomEnu\obj\x86\Release\CustomEnu.pdb
