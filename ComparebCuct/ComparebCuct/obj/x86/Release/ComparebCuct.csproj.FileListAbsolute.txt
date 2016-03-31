@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ComparebCuct\ComparebCuct\bin\Release\ComparebCuct.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ComparebCuct\ComparebCuct\bin\Release\ComparebCuct.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ComparebCuct\ComparebCuct\obj\x86\Release\ComparebCuct.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ComparebCuct\ComparebCuct\obj\x86\Release\ComparebCuct.pdb
