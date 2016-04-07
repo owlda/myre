@@ -1,0 +1,4 @@
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ObservableCol\ObservableCol\bin\Release\ObservableCol.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ObservableCol\ObservableCol\bin\Release\ObservableCol.pdb
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ObservableCol\ObservableCol\obj\x86\Release\ObservableCol.exe
+C:\Users\DAAndrienko\documents\visual studio 2010\Projects\ObservableCol\ObservableCol\obj\x86\Release\ObservableCol.pdb
