@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="be72c9f6-484f-47b4-9a1e-93da24daaa5f" Scope="Site" Title="VisualWebPart99 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>
