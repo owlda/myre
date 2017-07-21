@@ -1,0 +1,54 @@
+using System;
+using Microsoft.SharePoint;
+
+namespace createlist
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // HTTP address of site
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the site address: ");
+            String SiteAddress = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", SiteAddress);
+
+            // Name of List
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the name of list: ");
+            String enterName = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", enterName);
+
+            SPSite site = new SPSite(SiteAddress);
+            using (SPWeb web = site.OpenWeb())
+            {
+                SPList list = null;
+                string listName = enterName;
+
+
+            // Check whether the list already exists 
+                try
+                {
+                    list = web.Lists[listName];
+                }
+                catch (ArgumentException)
+                {
+                }
+                if (list == null)
+                {
+                    Guid listld = web.Lists.Add(listName, "Desc of list",
+                    SPListTemplateType.GenericList);
+                    list = web.Lists[listld];
+                    list.OnQuickLaunch = true;
+                    list.Update();
+                }
+
+                Console.WriteLine("Press any key...");
+                Console.ReadKey();
+
+
+            }
+        }
+    }
+} 
