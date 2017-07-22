@@ -1,0 +1,44 @@
+using System;
+using Microsoft.SharePoint;
+
+namespace createlist
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // HTTP address of site
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the site address: ");
+            String SiteAddress = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", SiteAddress);
+
+            // Name of List
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the name of list: ");
+            String nameList = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", nameList);
+
+            SPSite site = new SPSite(SiteAddress);
+            SPWeb web = site.OpenWeb();
+            // Connect to List
+            SPList sourceList = web.Lists.TryGetList(@nameList);
+
+            // Add fields
+            sourceList.Fields.Add("example1", SPFieldType.Currency, false);
+            sourceList.Fields.Add("example2", SPFieldType.Text, true);
+            sourceList.Fields.Add("example3", SPFieldType.Text, true);
+            
+            sourceList.Update();
+
+
+            Console.WriteLine("Press any key...");
+
+            Console.ReadKey();
+
+
+            }
+        }
+    }
+  
