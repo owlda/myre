@@ -1,0 +1,64 @@
+using System;
+using Microsoft.SharePoint;
+using System.IO;
+
+namespace createlist
+{
+    class Program
+    {
+       
+
+        static void Main(string[] args)
+        {
+
+            // HTTP address of site
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the site address: ");
+            String SiteAddress = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", SiteAddress);
+
+            // Name of List
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the name of list: ");
+            String enterName = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", enterName);
+
+            // ID of Item
+            Console.WriteLine("-----------------------------------------------");
+            Console.Write("Enter the id of item: ");
+            String idItem = Console.ReadLine();
+            Console.WriteLine("You entered: {0}", idItem);
+            int id = Int32.Parse(idItem);
+
+            using (SPSite mysite = new SPSite(SiteAddress))
+            {
+                using (SPWeb web = mysite.OpenWeb())
+                {
+                    SPList mylist = web.Lists["WordDocuments"];
+                    SPListItem newitem = mylist.GetItemById(id);
+                    byte[] contents = null;
+                    if (fileUpload.PostedFile != null && fileUpload.HasFile)
+                    {
+                        using (Stream fileStream = fileUpload.PostedFile.InputStream)
+                        {
+                            contents = new byte[fileStream.Length];
+                            fileStream.Read(contents, 0, (int)fileStream.Length);
+                            fileStream.Close();
+                        }
+                        SPAttachmentCollection attachment = newitem.Attachments;
+                        string fileName = Path.GetFileName(fileUpload.PostedFile.FileName);
+                        attachment.Add(fileName, contents);
+                        newitem["nameofAtt"] = fileName;
+                        newitem.Update();
+                    }
+                }
+            }
+
+                Console.WriteLine("Press any key...");
+                Console.ReadKey();
+
+
+            }
+        }
+    }
+}  
